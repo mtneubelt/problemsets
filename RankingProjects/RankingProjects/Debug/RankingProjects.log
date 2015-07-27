@@ -1,0 +1,20 @@
+﻿Build started 7/20/2015 9:35:16 AM.
+     1>Project "C:\Users\matthewn\Desktop\Ranking\RankingProjects\RankingProjects\RankingProjects.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt caesar_cipher.cpp
+         caesar_cipher.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\matthewn\Desktop\Ranking\RankingProjects\Debug\RankingProjects.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\matthewn\Desktop\Ranking\RankingProjects\Debug\RankingProjects.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\matthewn\Desktop\Ranking\RankingProjects\Debug\RankingProjects.lib" /MACHINE:X86 Debug\diagonal_difference.obj
+         Debug\library_fine.obj
+         Debug\plusminus.obj
+         Debug\staircase.obj
+         Debug\time_conversion.obj
+         Debug\very_big_sum.obj
+         Debug\caesar_cipher.obj
+         Debug\main.obj
+         RankingProjects.vcxproj -> C:\Users\matthewn\Desktop\Ranking\RankingProjects\Debug\RankingProjects.exe
+     1>Done Building Project "C:\Users\matthewn\Desktop\Ranking\RankingProjects\RankingProjects\RankingProjects.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77
